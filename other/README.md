@@ -1,2 +1,2 @@
 # Other
-This folder contains other resources that you may need.
+This folder contains (or will contain) other resources that you may need.
