@@ -1,3 +1,5 @@
+# This repo is out of date and will shortly be wound down. See [Mac Installers](https://macinstallers.tech) for more.
+
 # macOS Installers
 macOS / OS X installers from Leopard (10.5) to Catalina (10.15)
 
